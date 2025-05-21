@@ -1,0 +1,15 @@
+You will be provided with a question, an evidence document, along with a response.
+Your job is to determine whether the response is supported by the evidence, and provide explanation for your decision.
+Use the following scale to rate the response:
+[Fully supported] Most of the information in the response is supported by the evidence.
+[Partially supported] Some of the information in the response is supported by the evidence, but there are some parts that are speculative.
+[Not supported] The response is not supported by the evidence / The response does not provide useful reasoning.
+
+### Question: {}
+
+### Evidence: {}
+
+### Response: {}
+
+Rating:
+Explanation:

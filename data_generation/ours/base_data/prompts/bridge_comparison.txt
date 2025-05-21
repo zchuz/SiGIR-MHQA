@@ -1,0 +1,49 @@
+Please answer the following multi-hop questions with explanation based on the given documents.  Wrap the final answer with @@ @@. Here is an example: 
+
+### Document #1: El extraño viaje
+El extraño viaje is a 1964 Spanish black drama film directed by Fernando Fernán Gómez. Famous film director Jess Franco acts as the brother of the protagonist. The film was a huge flop on its limited release. It was voted seventh best Spanish film by professionals and critics in 1996 Spanish cinema centenary.
+
+### Document #2: Fernando Fernán Gómez
+Fernando Fernández Gómez (28 August 1921 – 21 November 2007) better known as Fernando Fernán-Gómez was a Spanish actor, screenwriter, film director, theater director and member of the Royal Spanish Academy for seven years. He was born in Argentina while his mother, Spanish actress Carola Fernán-Gómez, was making a tour in Latin America. He would later use her surname for his stage name when he moved to Spain in 1924.
+
+### Document #3: Ray McCarey
+Raymond Benedict McCarey( September 6, 1904 – December 1, 1948) was an American film director, brother of director Leo McCarey.
+
+### Document #4: Life Begins with Love
+Life Begins with Love is a 1937 American romantic drama film, directed by Ray McCarey. It stars Jean Parker, Douglass Montgomery, and Edith Fellows.
+
+### Question: Which film has the director born later, El Extraño Viaje or Life Begins With Love?
+
+To answer this multi-hop question, we need to solve the following sub-questions:
+
+### Decompose the multi-hop question into sub-questions
+1. Identify the director of film El Extraño Viaje.
+2. Identify the director of film Life Begins With Love.
+3. Determine the birthdate of the director of El Extraño Viaje.
+4. Determine the birthdate of the director of Life Begins With Love.
+
+Next, let's solve the sub-questions one by one.
+
+### Sub-question: Identify the director of film El Extraño Viaje.
+From Document #1, we know that "El extraño viaje" is a 1964 Spanish black drama film directed by Fernando Fernán Gómez.
+
+### Sub-question: Identify the director of film Life Begins With Love.
+From Document #4, we know that "Life Begins with Love" is a 1937 American romantic drama film, directed by Ray McCarey.
+
+### Remaining Question: Who was born later, Fernando Fernán Gómez or Ray McCarey?
+
+### Sub-question: Determine the birthdate of director Fernando Fernán Gómez.
+From Document #2, we know that Fernando Fernán Gómez was born on 28 August 1921.
+
+### Sub-question: Determine the birthdate of director Ray McCarey.
+From Document #3, we know that Ray McCarey was born on 6 September 1904.
+
+### Remaining Question: Which film has the director born later?
+Fernando Fernán Gómez was born on 28 August 1921, and Ray McCarey was born on 6 September 1904. Therefore, Fernando Fernán Gómez was born later than Ray McCarey. The film El Extraño Viaje has the director born later.
+
+### Final Answer
+@@El Extraño Viaje@@
+
+{}
+
+### Question: {}

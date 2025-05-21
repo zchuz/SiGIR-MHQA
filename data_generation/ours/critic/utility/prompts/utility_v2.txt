@@ -1,0 +1,15 @@
+You will be provided with a question, along with a reasoning trajectory.
+Your job is to determine whether the reasoning trajectory is useful for answering the question, and provide explanation for your decision.
+Use the following scale to rate the reasoning:
+[4]: The reasoning process is clear, logically structured, and well-supported by the evidence.
+[3]: The reasoning process is mostly clear, partially logically structured, and supported by evidence, but may contains minor logical flaws.
+[2]: The reasoning is somewhat unclear with noticeable flaws and uses limited or weak evidence.
+[1]: The reasoning is flawed, lacking supporting evidence, which results in an incorrect conclusion.
+[0]: The reasoning fails to provide a definitive answer.
+
+### Question: {}
+
+### Reasoning: {}
+
+Rating: 
+Explanation:

@@ -1,0 +1,42 @@
+You will be provided with a question, an evidence document, along with a response.
+Your job is to determine whether the response is supported by the evidence, and provide explanation for your decision.
+Use the following scale to rate the response:
+[Fully supported] Most of the information in the response is supported by the evidence.
+[Partially supported] Some of the information in the response is supported by the evidence, but there are some parts that are speculative.
+[Not supported] The response is not supported by the evidence / The response does not provide useful reasoning.
+
+### Question: In which country is the Financial Conduct Authority located?
+
+### Evidence: Martin Wheatley
+Martin Wheatley is a British financier, formerly managing director of the Consumer and Markets Business Unit of the Financial Services Authority in the UK, and is the former CEO of the Financial Conduct.
+
+### Response: From Document, we know that Martin Wheatley is a British financier who formerly managed the Consumer and Markets Business Unit of the Financial Services Authority in the UK. This indicates that the Financial Conduct Authority is located in the United Kingdom.
+
+Rating: [Fully supported]
+Explanation: The response is fully supported by the evidence. The evidence clearly states that Martin Wheatley is a British financier who formerly managed the Consumer and Markets Business Unit of the Financial Services Authority in the UK and was the former CEO of the Financial Conduct Authority. The response accurately extracts this information and concludes that the Financial Conduct Authority is located in the United Kingdom, which is directly supported by the evidence provided.
+
+### Question: What is the birthplace of Jane Siberry?
+
+### Evidence: Gavin Bradley 
+Gavin Bradley is an award-winning Canadian singer-songwriter and producer based in Toronto who has worked with artists like Nelly Furtado, Tori Amos and Jane Siberry. Fusing acoustic and electronic elements, his work is identifiable for its signature "warm" piano sound and live strings mixed with filtered synthesizers and other electronic manipulations . Besides production, Bradley is a solo recording artist. His debut album 'Deep Freeze' was released on UMI Records in 2006.
+
+### Response: The response is partially supported because the evidence mentions Gavin Bradley's Toronto connection but does not directly state Jane Siberry's birthplace. The inference about her possible connection to Toronto is speculative.
+
+Rating: [Partially supported]
+Explanation: The response correctly identifies that the evidence mentions Gavin Bradley's connection to Toronto but does not directly state Jane Siberry's birthplace. The inference that Jane Siberry might be connected to Toronto based on her collaboration with Gavin Bradley is speculative, as the evidence does not provide explicit information about her birthplace. Therefore, the response is partially supported.
+
+### Question: What is the city where WXPN is located?
+
+### Evidence: Where is Mama
+Where is Mama or Where's Mama (), is a short Chinese animated film produced by Shanghai Animation Film Studio in 1960 under the artistic guidance of Te Wei. The narrated film describes the adventures and misadventures of a group of tadpoles in search of their mother. It is one of Te Wei's first attempts to break away from Western style animation and aim for a painterly style influenced by Qi Baishi and more in keeping with native Chinese aesthetic sensibilities. Because of its simple story line and repetitive script it is ideal for children who are beginning their study of the Chinese language.
+
+### Response: From Document, we know that "Where is Mama" is a short Chinese animated film produced by Shanghai Animation Film Studio in 1960. Since WXPN is a radio station, it is likely located in the city where the film was produced, which is Shanghai.
+
+Rating: [Not supported]
+Explanation: The response is not supported by the evidence provided. The evidence document discusses a short Chinese animated film called "Where is Mama," produced by Shanghai Animation Film Studio in 1960, and provides information about its artistic style and target audience. However, there is no mention of WXPN, a radio station, in the evidence document. The response speculates that WXPN is likely located in Shanghai because of the connection to the film's production, but this is an assumption that is not grounded in the evidence. Therefore, the response is not supported by the evidence.
+
+### Question: {}
+
+### Evidence: {}
+
+### Response: {}

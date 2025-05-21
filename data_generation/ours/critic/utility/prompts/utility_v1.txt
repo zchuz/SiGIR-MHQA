@@ -1,0 +1,15 @@
+You will be provided with a question, along with a reasoning trajectory.
+Your job is to determine whether the reasoning trajectory is useful for answering the question, and provide explanation for your decision.
+Use the following scale to rate the reasoning:
+[4]: The reasoning is clear and the answer is correct.
+[3]: The reasoning is clear and the answer is partially correct.
+[2]: The reasoning may be flawed, with the answer partially correct.
+[1]: The reasoning is flawed, and the answer is incorrect.
+[0]: The reasoning doesn't provide the final answer.
+
+### Question: {}
+
+### Reasoning: {}
+
+Rating: 
+Explanation:

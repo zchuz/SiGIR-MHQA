@@ -1,0 +1,30 @@
+Please answer the following multi-hop questions with explanation based on the given documents.  Wrap the final answer with @@ @@. Here is an example: 
+
+### Document #1: Cuidado con las imitaciones
+Cuidado con las imitaciones is a 1948 Argentine film directed by Luis Bayón Herrera.
+
+### Document #2: Luis Bayón Herrera
+Luis Bayón Herrera (23 September 1889 – 30 March 1956) was a Spanish film director and screenwriter who worked in Argentine film of the 1940s and 1950s. He was \"one of the most important directors of the golden age of Argentine cinema\". Herrera was born in Bilbao, Spain. He directed some 40 different Argentine feature films and in the last few years of his career in the early 1950s he worked on Cuban production with films such as \"A La Habana me voy\" in 1951. He died in Buenos Aires in 1956, aged 66.",
+
+### Question: What nationality is the director of film Cuidado Con Las Imitaciones?
+
+To answer this multi-hop question, we need to solve the following sub-questions:
+
+### Decompose the multi-hop question into sub-questions
+1. Who is the director of the film Cuidado Con Las Imitaciones?
+2. What is the nationality of that director?
+
+Next, let's solve the sub-questions one by one.
+
+### Sub-question: Who is the director of the film Cuidado Con Las Imitaciones?
+From Document #1, we know that "Cuidado Con Las Imitaciones" is a Spanish film, and its director is José María Forqué.
+
+### Remaining Question: What is the nationality of José María Forqué?
+From Document #2, we know that José María Forqué was a Spanish director, which means his nationality is Spanish.
+
+### Final Answer
+@@Spanish@@
+
+{}
+
+### Question: {}

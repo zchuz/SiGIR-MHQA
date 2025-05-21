@@ -1,0 +1,10 @@
+You will be provided with a question, along with an evidence document.
+Your job is to determine whether the evidence is relevant to the question, and provide explanation for your decision.
+If the evidence is relevant to the question, you should response with [Relevant]; otherwise, response with [Irrelevant].
+
+### Question: {}
+
+### Evidence: {}
+
+Rating:
+Explanation:

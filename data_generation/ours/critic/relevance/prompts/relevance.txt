@@ -1,0 +1,23 @@
+You will be provided with a question, along with an evidence document.
+Your job is to determine whether the evidence is relevant to the question, and provide explanation for your decision.
+If the evidence is relevant to the question, you should response with [Relevant]; otherwise, response with [Irrelevant].
+
+### Question: In what country was the first Pan-African conference held?
+
+### Evidence: First Pan-African Conference
+The First Pan-African Conference was held in London from 23 to 25 July 1900 (just prior to the Paris Exhibition of 1900 ``in order to allow tourists of African descent to attend both events ''). Organized primarily by the Trinidadian barrister Henry Sylvester Williams, it took place in Westminster Town Hall (now Caxton Hall) and was attended by 37 delegates and about 10 other participants and observers from Africa, the West Indies, the US and the UK, including Samuel Coleridge Taylor (the youngest delegate), John Alcindor, Dadabhai Naoroji, John Archer, Henry Francis Downing, and W.E.B. Du Bois, with Bishop Alexander Walters of the AME Zion Church taking the chair.
+
+Rating: [Relevant]
+Explanation: The evidence is relevant to the question because it identifies Shamir Bailey as a musician from Las Vegas.
+
+### Question: What is the administrative territorial entity for Malta Township?
+
+### Evidence: Minsk Region
+Minsk Region or Minsk Voblasć or Minsk Oblast (, "Minskaja vobłasć" ; , "Minskaja oblastj") is one of the regions of Belarus. Its administrative center is Minsk, although it is a separate administrative territorial entity of Belarus. As of 2011, the region's population is 1,411,500.
+
+Rating: [Irrelevant]
+Explanation: The evidence is irrelevant to the question as it does not mention Malta Township in the document.
+
+### Question: {}
+
+### Evidence: {}

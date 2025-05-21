@@ -1,0 +1,48 @@
+Please answer the following multi-hop questions with explanation based on the given documents.  Wrap the final answer with @@ @@. Here is an example: 
+
+### Document #1: Lots More Blues, Rags and Hollers
+Lots More Blues, Rags and Hollers is an album by the blues trio Koerner, Ray & Glover, released in 1964.
+
+### Document #2: Military history of the United States
+In the Treaty of Paris after the Revolution, the British had ceded the lands between the Appalachian Mountains and the Mississippi River to the United States, without consulting the Shawnee, Cherokee, Choctaw and other smaller tribes who lived there. Because many of the tribes had fought as allies of the British, the United States compelled tribal leaders to sign away lands in postwar treaties, and began dividing these lands for settlement. 
+
+### Document #3: Koerner, Ray & Glover
+Koerner, Ray & Glover was a loose-knit group of three blues musicians from Minneapolis, Minnesota: \"Spider\" John Koerner on guitar and vocals, Dave \"Snaker\" Ray on guitar and vocals, and Tony \"Little Sun\" Glover on harmonica. 
+
+### Document #4: Minneapolis
+Minneapolis lies on both banks of the Mississippi River, just north of the river's confluence with the Minnesota River, and adjoins Saint Paul, the state's capital. The city is abundantly rich in water, with 13 lakes, wetlands, the Mississippi River, creeks and waterfalls.
+
+### Question: What treaty ceded territory to the US extending west to body of water by the city where the Lots More Blues, Rags and Hollers performer was formed?
+
+To answer this multi-hop question, we need to solve the following sub-questions:
+
+### Decompose the multi-hop question into sub-questions
+1. Identify the performer of "Lots More Blues, Rags and Hollers."
+2. Determine the city where this performer was formed.
+3. Identify the body of water near that city.
+4. Identify the treaty that ceded territory to the US extending west to that body of water.
+
+Next, let's solve the sub-questions one by one.
+
+### Sub-question: Identify the performer of "Lots More Blues, Rags and Hollers."
+From Document #1, we know that "Lots More Blues, Rags and Hollers" is an album by Koerner, Ray & Glover.
+
+### Remaining Question: What treaty ceded territory to the US extending west to body of water by the city where Koerner, Ray & Glover was formed?
+
+### Sub-question: Determine the city where Koerner, Ray & Glover was formed.
+From Document #3, we know that Koerner, Ray & Glover were a group of blues musicians from Minneapolis, Minnesota.
+
+### Remaining Question: What treaty ceded territory to the US extending west to body of water by Minneapolis?
+
+### Sub-question: Identify the body of water near Minneapolis.
+From Document #4, we know that Minneapolis lies on both banks of the Mississippi River, just north of the river's confluence with the Minnesota River.
+
+### Remaining Question: What treaty ceded territory to the US extending west to the Minnesota River?
+From Document #2, we know that in the Treaty of Paris after the Revolution, the British ceded the lands between the Appalachian Mountains and the Mississippi River to the United States.
+
+### Final Answer
+@@Treaty of Paris@@
+
+{}
+
+### Question: {}

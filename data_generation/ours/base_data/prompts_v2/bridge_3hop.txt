@@ -1,0 +1,39 @@
+Please answer the following multi-hop questions with explanation based on the given documents.  Wrap the final answer with @@ @@. Here is an example: 
+
+### Document #1: Casa Loma
+Casa Loma (Spanish for ``Hill House '') is a Gothic Revival style mansion and garden in midtown Toronto, Ontario, Canada, that is now a historic house museum and landmark. It was constructed from 1911 to 1914 as a residence for financier Sir Henry Pellatt. The architect was E. J. Lennox, who designed several other city landmarks. Casa Loma sits at an elevation of 140 metres (460 ft) above sea level.
+
+### Document #2: The Speckless Sky
+The Speckless Sky is an album by Jane Siberry. It was Siberry's highest-charting album on the Canadian charts and contains her biggest Top 40 hit, "One More Colour". The album's second single, "Map of the World (Part II)", was also a hit on Canada's adult contemporary charts.
+
+### Document #3: Gavin Bradley
+Gavin Bradley is an award-winning Canadian singer-songwriter and producer based in Toronto who has worked with artists like Nelly Furtado, Tori Amos and Jane Siberry. Fusing acoustic and electronic elements, his work is identifiable for its signature "warm" piano sound and live strings mixed with filtered synthesizers and other electronic manipulations . Besides production, Bradley is a solo recording artist. His debut album 'Deep Freeze' was released on UMI Records in 2006.
+
+### Question: What is the name of the castle found in the birthplace of the performer of The Speckless Sky?
+
+To answer this multi-hop question, we need to solve the following sub-questions:
+
+### Decompose the multi-hop question into sub-questions
+1. Who is the performer of "The Speckless Sky"?
+2. What is the birthplace of that performer?
+3. What is the name of the castle found in that birthplace?
+
+Next, let's solve the sub-questions one by one.
+
+### Sub-question: Who is the performer of "The Speckless Sky"?
+From Document #2, we know that "The Speckless Sky" is an album by Jane Siberry.
+
+### Remaining Question: What is the name of the castle found in the birthplace of Jane Siberry?
+
+### Sub-question: What is the birthplace of Jane Siberry?
+There is no direct information about Jane Siberry's birthplace in the provided documents. However, we can infer from Document #3 that Gavin Bradley, who has worked with Jane Siberry, is based in Toronto. Given that Jane Siberry is a Canadian artist and has collaborated with a Toronto-based producer, it is reasonable to assume that she might be from Toronto or at least has a strong connection to the city.
+
+### Remaining Question: What is the name of the castle found in Toronto?
+From Document #1, we know that Casa Loma is a Gothic Revival style mansion and garden in midtown Toronto, Ontario, Canada.
+
+### Final Answer
+@@Casa Loma@@
+
+{}
+
+### Question: {}

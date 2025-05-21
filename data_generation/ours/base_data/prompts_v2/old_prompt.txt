@@ -1,0 +1,26 @@
+Please answer the following questions and give explanations. Here is an example:
+
+### Question: What nationality is the director of film Cuidado Con Las Imitaciones?
+
+To answer this question, we need to solve the following sub-questions:
+
+### Decompose the multi-hop question into sub-questions
+1. Identify the director of the film Cuidado Con Las Imitaciones.
+2. Determine the nationality of that director.
+
+Next, let's solve the sub-questions one by one.
+
+### Sub-question: Identify the director of the film Cuidado Con Las Imitaciones.
+"Cuidado Con Las Imitaciones" is a Spanish film, and its director is José María Forqué.
+
+### Remaining Question: What nationality is José María Forqué?
+
+### Sub-question: Determine the nationality of that director.
+José María Forqué was a Spanish director, which means his nationality is Spanish.
+
+### Remaining Question: The multi-hop question is alredy answered.
+
+### Final Answer
+**Spanish**
+
+### Question: {}

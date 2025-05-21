@@ -1,0 +1,39 @@
+Please answer the following multi-hop questions with explanation based on the given documents.  Wrap the final answer with @@ @@. Here is an example: 
+
+### Document #1: Black people
+Though Brazilians of at least partial African heritage make up a large percentage of the population, few blacks have been elected as politicians. The city of Salvador, Bahia, for instance, is 80% people of color, but voters have not elected a mayor of color. Journalists like to say that US cities with black majorities, such as Detroit and New Orleans, have not elected white mayors since after the civil rights movement, when the Voting Rights Act of 1965 protected the franchise for minorities, and blacks in the South regained the power to vote for the first time since the turn of the 20th century. New Orleans elected its first black mayor in the 1970s. New Orleans elected a white mayor after the widescale disruption and damage of Hurricane Katrina in 2005.
+
+### Document #2: Mother-in-Law Lounge
+The Mother-in-Law Lounge is a live music venue, pub and a shrine in New Orleans, Louisiana dedicated to the memory of rhythm and blues singer, Ernie K-Doe. It is at the downtown river corner of Claiborne Avenue and Columbus Street in the 7th Ward of New Orleans. The exterior of the building is decorated with colorful murals depicting K-Doe and other prominent figures in New Orleans music, especially people who collaborated with K-Doe.
+
+### Document #3: Here Come the Girls (song)
+"Here Come the Girls" is a song written by Allen Toussaint and originally recorded by Ernie K-Doe and released in 1970. It failed to chart at that time.
+
+### Question: When did the birthplace of the Here Come the Girls performer elect its first black mayor?
+
+To answer this multi-hop question, we need to solve the following sub-questions:
+
+### Decompose the multi-hop question into sub-questions
+1. Who is the performer of "Here Come the Girls"?
+2. What is the birthplace of that performer?
+3. When did the birthplace elect its first black mayor?
+
+Next, let's solve the sub-questions one by one.
+
+### Sub-question: Who is the performer of "Here Come the Girls"?
+From Document #3, we learn that "Here Come the Girls" was originally recorded by Ernie K-Doe.
+
+### Remaining Question: When did the birthplace of Ernie K-Doe elect its first black mayor?
+
+### Sub-question: What is the birthplace of Ernie K-Doe?
+From Document #2, we find that Ernie K-Doe is associated with New Orleans, Louisiana, which suggests that New Orleans is his birthplace.
+
+### Remaining Question: When did New Orleans elect its first black mayor?
+From Document #1, we learn that New Orleans elected its first black mayor in the 1970s.
+
+### Final Answer
+@@1970s@@
+
+{}
+
+### Question: {}

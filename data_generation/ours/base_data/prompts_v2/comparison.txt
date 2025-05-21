@@ -1,0 +1,33 @@
+Please answer the following multi-hop questions with explanation based on the given documents.  Wrap the final answer with @@ @@. Here is an example: 
+
+### Document #1: The Amazing Colossal Man
+The Amazing Colossal Man( also known as The Colossal Man) is a 1957 American black- and- white science fiction film from American International Pictures, produced and directed by Bert I. Gordon, that stars Glenn Langan, Cathy Downs, William Hudson, and Larry Thor. It is an uncredited adaptation of Homer Eon Flint's 1928 short science fiction novel\" The Nth Man\". 
+
+### Document #2: Palkon Ki Chhaon Mein
+Palkon Ki Chhaon Mein is a 1977 Indian Hindi- language drama film, produced by Nariman Baria and A. Khalia under the Nav Sampathi Productions banner and directed by Meraj. The film stars Rajesh Khanna, Hema Malini while Jeetendra has given a special appearance and music composed by Laxmikant Pyarelal. It received 4 of 5 stars from critics in Bollywood Guide Collections. The film was critically acclaimed and became an unexpected flop at the box office. 
+
+### Question: Which film was released more recently, The Amazing Colossal Man or Palkon Ki Chhaon Mein?
+
+To answer this multi-hop question, we need to solve the following sub-questions:
+
+### Decompose the multi-hop question into sub-questions
+1. What is the release date of The Amazing Colossal Man?
+2. What is the release date of Palkon Ki Chhaon Mein?
+
+Next, let's solve the sub-questions one by one.
+
+### Sub-question: What is the release date of The Amazing Colossal Man?
+From Document #1, we know that \"The Amazing Colossal Man\" was released in 1957.
+
+### Sub-question: What is the release date of Palkon Ki Chhaon Mein?
+From Document #2, we know that \"Palkon Ki Chhaon Mein\" was a 1977 film.
+
+### Remaining Question: Which film was released more recently?
+From the above information, we know that \"The Amazing Colossal Man\" was released in 1957 and \"Palkon Ki Chhaon Mein\" was released in 1977. Therefore, \"Palkon Ki Chhaon Mein\" was released more recently.
+
+### Final Answer
+@@Palkon Ki Chhaon Mein@@
+
+{}
+
+### Question: {}
